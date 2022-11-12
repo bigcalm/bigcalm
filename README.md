@@ -1,6 +1,6 @@
 ### Social Media
 * Mastodon: [@bigcalm@mendeddrum.org](https://mendeddrum.org/@bigcalm)
-* [Blog](https://myrant.net)
+* Blogs: [myrant.net](https://myrant.net)
 
 <!--
 **bigcalm/bigcalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
