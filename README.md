@@ -1,4 +1,6 @@
-### <a rel="me" href="https://mendeddrum.org/@bigcalm">Mastodon</a>
+### Social Media
+* Mastodon: <a rel="nofollow me" href="https://mendeddrum.org/@bigcalm">@bigcalm@mendeddrum.org</a>
+* Blog: <a rel="nofollow" href="https://myrant.net">myrant.net</a>
 
 <!--
 **bigcalm/bigcalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
