@@ -1,5 +1,5 @@
 ### Social Media
-* Mastodon: <a rel="nofollow me" href="https://mendeddrum.org/@bigcalm">@bigcalm@mendeddrum.org</a>
+* Mastodon: <a rel="nofollow" href="https://mendeddrum.org/@bigcalm">@bigcalm@mendeddrum.org</a>
 * Blog: <a rel="nofollow" href="https://myrant.net">myrant.net</a>
 
 <!--
